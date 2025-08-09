@@ -3,7 +3,7 @@
 A simple web app built using **Streamlit** to check real-time cryptocurrency prices.
 
 ### 🌐 Live Website:
-👉 [Click to Try the App](https://crypto-price-checker-72.streamlit.app/)
+👉 [Click to Try the App](https://crypto-price-checker-7.streamlit.app/)
 
 ---
 
