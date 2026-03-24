@@ -5,7 +5,7 @@ A simple web app built using **Streamlit** to check real-time cryptocurrency pri
 ### 🌐 Live Website:
 👉 [Click to Try the App](https://crypto-price-checker-7.streamlit.app/)
 
----
+
 
 ## 🚀 Features
 - Search for any cryptocurrency (e.g., BTC, ETH)
