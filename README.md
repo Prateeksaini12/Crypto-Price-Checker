@@ -1,4 +1,4 @@
-# Crypto Price Checker 🔍💰
+## Crypto Price Checker 🔍💰
 
 A simple web app built using **Streamlit** to check real-time cryptocurrency prices.
 
