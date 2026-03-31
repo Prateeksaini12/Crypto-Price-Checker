@@ -1,6 +1,6 @@
 ## Crypto Price Checker 🔍💰
 
-A simple web app built using **Streamlit** to check real-time cryptocurrenc prices.
+A simple web app built using **Streamlit** to check real-time cryptocurrency prices.
 
 ### 🌐 Live Website:
 👉 [Click to Try the App](https://crypto-price-checker-7.streamlit.app/)
