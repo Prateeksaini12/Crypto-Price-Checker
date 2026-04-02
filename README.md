@@ -7,7 +7,7 @@ A simple web app built using **Streamlit** to check real-time cryptocurrency pri
 
 
 
-## 🚀 Feature
+## 🚀 Features
 - Search for any cryptocurrency (e.g., BTC, ETH)
 - Real-time price updates
 - Simple, clean interface
