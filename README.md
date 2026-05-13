@@ -7,7 +7,7 @@ A simple web app built using **Streamlit** to check real-time cryptocurrency pri
 
 
 
-## 🚀 Feat
+## 🚀 Featu
 - Search for any cryptocurrency (e.g., BTC, ETH)
 - Real-time price updates
 - Simple, clean interface
