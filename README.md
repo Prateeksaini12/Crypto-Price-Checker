@@ -14,7 +14,7 @@ A simple web app built using **Streamlit** to check real-time cryptocurrency pri
 - Fully browser-based – no installation needed
   
 
-## 🛠️ Tech St
+## 🛠️ Tech Sta
 - Python
 - Streamlit
 - Requests
